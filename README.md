@@ -1,6 +1,3 @@
-**Note: The Wagerr Coin App is currently experimental and not expected to
-work with the current Wagerr Core release. An official beta release will be
-published soon.**
 
 Coin Electron App
 ===================
@@ -19,17 +16,8 @@ on your local machine.
 Install
 -------
 
-Clone the repo:
-
-```sh
-git clone https://github.com/wagerr/wagerr-electron-app.git
-```
 
 Change directory into the cloned repository:
-
-```sh
-cd wagerr-electron-app
-```
 
 Install dependencies with npm:
 
